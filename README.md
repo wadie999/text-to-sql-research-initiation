@@ -26,7 +26,9 @@ Our group's focus is on exploring the intersection of Pre-trained Language Model
 We commence our exploration with a set of key research papers. These are housed in our docs subfolder for easy reference:
 
 [Improving Text-to-SQL Evaluation Methodology](./docs/1806.09029.pdf)
+
 [KaggleDBQA: Realistic Evaluation of Text-to-SQL Parsers](docs/2106.11455.pdf)
+
 [Can LLM Already Serve as A Database Interface? A BIg Bench for Large-Scale Database Grounded Text-to-SQLs](docs/2305.03111.pdf)
 
 ### Stage Progression
